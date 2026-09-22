@@ -5,9 +5,7 @@
 [![HPC](https://img.shields.io/badge/HPC-SLURM%20Cluster-orange.svg)](https://slurm.schedmd.com/)
 [![License](https://img.shields.io/badge/License-Academic-lightgrey.svg)](#)
 
-> **M.Tech. Thesis Defense Project**  
-> **Author:** Vaibhav Anand (Roll No. 18807843)  
-> **Supervisor:** Prof. R. Sankararamakrishnan  
+> **M.Tech. Thesis Project**  
 > **Department:** Department of Biological Sciences and Bioengineering (BSBE)  
 > **Institution:** Indian Institute of Technology (IIT) Kanpur  
 > **Compute Facilities:** HPC2013 & Param Sanganak Supercomputing Facility, IIT Kanpur  
@@ -257,6 +255,5 @@ pip install pandas numpy matplotlib seaborn MDAnalysis plotly openpyxl
 
 ## Acknowledgments
 
-- **Prof. R. Sankararamakrishnan** (Thesis Supervisor, Dept. of Biological Sciences and Bioengineering, IIT Kanpur) for guidance and scientific mentorship.
-- **HPC2013 and Param Sanganak Supercomputing Facility** at IIT Kanpur for generous computational grants and technical support.
-- All faculty, staff, and research lab members at the **Department of Biological Sciences and Bioengineering (BSBE), IIT Kanpur**.
+- **HPC2013 and Param Sanganak Supercomputing Facility** at IIT Kanpur for computational grants and technical support.
+- Faculty, staff, and computational biology lab members at the **Department of Biological Sciences and Bioengineering (BSBE), IIT Kanpur**.
